@@ -1,4 +1,4 @@
-# Projet individuel: redaction d’un rapport de recherche sur l’algorithme Welzl resolvant le problème du cercle minimum.
+# Projet individuel
 
 `Alina Novikova`  
 
